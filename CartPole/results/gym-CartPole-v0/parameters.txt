@@ -1,0 +1,11 @@
+(MDP)
+	gym-CartPole-v0
+(Agents)
+	Linear-Q,0
+(Params)
+	instances : 1
+	episodes : 400
+	steps : 210
+	gamma : 0.99
+	track_disc_reward : False
+	is_lifelong : False
